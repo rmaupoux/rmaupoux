@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on WordPress with FSE. I developped Gutenberg blocks for WordPress, convinced that it is the Futur of Web. 
+🔭 I’m currently working on WordPress with FSE. I developped Gutenberg blocks for WordPress, convinced that it is the Futur of Web. <br/>
 🌱 I’m currently learning Accessibility and js animation with GASP
 
 ## 🌐 Socials:
